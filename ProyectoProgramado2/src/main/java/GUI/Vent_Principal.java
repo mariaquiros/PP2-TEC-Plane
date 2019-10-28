@@ -1,5 +1,8 @@
 package GUI;
-
+/**
+ * Ventana Principal
+ */
+import org.json.JSONArray;
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
