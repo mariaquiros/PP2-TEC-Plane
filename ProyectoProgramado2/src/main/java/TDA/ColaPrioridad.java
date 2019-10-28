@@ -1,4 +1,10 @@
 package TDA;
+/**
+ * 
+ * @author María
+ *
+ * @param <T>
+ */
 
 public class ColaPrioridad<T> implements IPrioridad {
 	Cola[] ColaP;
